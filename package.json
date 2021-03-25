@@ -1,6 +1,6 @@
 {
   "name": "capacitor-plugin-notifications-simple",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Easy way to create notifications locally, just like Capacitor Local Notifications, but without timers. Supports notification tag for android",
   "main": "dist/plugin.js",
   "module": "dist/esm/index.js",
